@@ -6,4 +6,4 @@ Hi! I am a Master’s student in Computer Science at Brown University. My resear
 
 Previously, I graduated from the University of Sydney with a major in Computer Science and Mathematics, receiving the University Medal as the **top-ranked (1st)** undergraduate. I was fortunate to be advised by Professor Dacheng Tao during my Honours year.
 
-I am actively seeking research collaboration opportunities. Please feel free to reach out! 😊
+I am actively seeking research collaboration opportunities. Please feel free to reach out! 😊 
