@@ -25,6 +25,6 @@ Hi! I am a Master’s student in Computer Science at Brown University. My resear
 
 Previously, I graduated from the University of Sydney with a major in Computer Science and Mathematics, receiving the University Medal as the **top-ranked (1st)** undergraduate. I was fortunate to be advised by Professor Dacheng Tao during my honours year and by Professor Randall Balestriero during my master’s.
 
-I was also awarded the Sydney Chancellor’s Award, a prestigious full-tuition scholarship recognizing my [1st-in-state](https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/how-did-the-new-migrant-wenquan-lu-receive-top-atar-in-hsc/o0orxe9cc) performance in the [HSC](https://en.wikipedia.org/wiki/Higher_School_Certificate_(New_South_Wales)), valued at $10,000 per annum throughout my undergraduate degree.
+I was also awarded the Sydney Chancellor’s Award, a prestigious full-tuition scholarship recognizing my [1st-in-state](https://www.matrix.edu.au/davids-tips-how-i-got-1st-in-hsc-physics-and-99-95-atar/) performance in the [HSC](https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/how-did-the-new-migrant-wenquan-lu-receive-top-atar-in-hsc/o0orxe9cc), valued at $10,000 per annum throughout my undergraduate degree.
 
 I am actively seeking research collaboration opportunities. Please feel free to reach out! 😊 
