@@ -3,7 +3,7 @@
   booktitle = {arXiv:2602.03190},
   title = {PrAg-PO: Prompt Augmented Policy Optimization for Robust and Diverse Mathematical Reasoning},
   year = {2026},
-  preview = {prompt-augmentation.png},
+  preview = {prag-po-arch.png},
   html={https://arxiv.org/abs/2602.03190},
   code={https://github.com/wenquanlu/PrAg-PO},
   abstract={Reinforcement learning algorithms such as group-relative policy optimization (GRPO) have shown strong potential for improving the mathematical reasoning capabilities of large language models. While a growing body of work seeks to improve training entropy, rollout diversity, and exploration, most existing methods still train models with a single fixed reasoning prompt or template, which can encourage prompt-specific overfitting and unstable training dynamics. In this work, we introduce Prompt Augmented Policy Optimization (PrAg-PO), a simple policy optimization method that mixes prompt templates with template-specific format rewards during training. By encouraging models to generate reasoning traces under diverse instructions and output formats, PrAg-PO increases rollout diversity and improves robustness. Compared with GRPO and DAPO, PrAg-PO achieves significantly higher reasoning accuracy while mitigating premature training collapse. Empirically, experiments on DeepSeek-R1-Distill-Qwen-1.5B, Qwen2.5-Math-1.5B, and Qwen3-1.7B show that PrAg-PO consistently outperforms strong baselines and achieves competitive performance against recent methods on mathematics benchmarks, using only a fixed MATH Level 3-5 training set of 8.5K problems. The code and model checkpoints are available at https://github.com/wenquanlu/PrAg-PO.},
